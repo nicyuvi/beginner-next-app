@@ -35,5 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Resources
 - [Quick Type](https://app.quicktype.io/)
-- [Cat API](https://thatcopy.pw/catapi/)
-- 
+- [Rick and Morty API](https://rickandmortyapi.com/documentation/)
